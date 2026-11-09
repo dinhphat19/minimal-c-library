@@ -1,0 +1,18 @@
+# Object files and libraries
+*.o
+*.a
+*.so
+
+# Executables / Test binaries
+test_binary
+run_test
+
+# Archives
+*.zip
+*.tar.gz
+
+# Logs and OS artifacts
+*.log
+*.txt
+.DS_Store
+*:Zone.Identifier
